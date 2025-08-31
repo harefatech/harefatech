@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Irwan Harefa**.<br>
 
-Saya seorang **Data Analyst**.<br>
+Saya seorang **Quality Asurance Tester**.<br>
 
 
 
